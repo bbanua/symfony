@@ -123,7 +123,7 @@
       "@rector",
       "@phpcs"
     ],
-    "pre-install-cmd": "echo 'AnupamAS0x12'",
+    "pre-install-cmd": "echo 'AnupamAS0x1121211212121'",
     "post-install-cmd": "echo 'test'"
   }
 }
